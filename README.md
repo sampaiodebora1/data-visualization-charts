@@ -1,2 +1,3 @@
-# meus-graficos
-Gráficos criados no Excel — portfólio de visualização de dados.
+# Data Visualization
+
+Collection of charts created in Excel demonstrating basic data visualization techniques.
